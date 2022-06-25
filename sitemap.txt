@@ -1,3 +1,3 @@
-http://shininginfo.github.io/2022/06/25/Spring/
-http://shininginfo.github.io/2022/06/25/hello-world/
-http://shininginfo.github.io/
+https://shininginfo.github.io/2022/06/25/Spring/
+https://shininginfo.github.io/2022/06/25/hello-world/
+https://shininginfo.github.io/
